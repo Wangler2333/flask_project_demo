@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*- 
 # @Author: 李多
 # @Time: 2018年05月08日14时04分 
-# 说明: 
+# 说明: 构建app_create方法，动态加载配置文件
 # 总结:
 
 from flask import Flask

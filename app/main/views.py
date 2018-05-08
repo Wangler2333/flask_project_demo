@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*- 
 # @Author: 李多
 # @Time: 2018年05月08日14时08分 
-# 说明: 
+# 说明: 设计此app使用的视图，蓝图为main
 # 总结:
 
 from datetime import datetime

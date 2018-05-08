@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*- 
 # @Author: 李多
 # @Time: 2018年05月08日14时08分 
-# 说明: 
+# 说明: 使用app_errorhandler装饰器定义全局错误页面
 # 总结:
 
 from flask import render_template

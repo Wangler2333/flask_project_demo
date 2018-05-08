@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*- 
 # @Author: 李多
 # @Time: 2018年05月08日14时07分 
-# 说明: 
+# 说明: 设计项目使用的数据模型类
 # 总结:
 
 from app import db
